@@ -1,0 +1,52 @@
+#page{
+  width:1024px;
+  height: 768px;
+}
+.logo{
+    width: 100px;
+    display: inline-flex;
+    margin: auto ;
+
+}
+
+.logo img{
+float: right;
+margin-left: 500px;
+width: 920px;
+height: 613px;
+}
+
+.search{
+  position:absolute;
+  top: 500px;
+}
+
+.search form{
+  
+  margin-left: 460px;
+  width: 100px;
+
+}
+
+input {
+    width: 1000px;
+    height:50px
+}
+
+.search button{
+  
+  width: 200px;
+  height:40px;
+  margin-top:50px;
+  margin-left: 20px;
+   
+}  
+
+.buttons{
+    margin-left:740px;
+
+  
+}
+ 
+  
+
