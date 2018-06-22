@@ -2,18 +2,19 @@
   width:1024px;
   height: 768px;
 }
+
 .logo{
     width: 100px;
     display: inline-flex;
-    margin: auto ;
+    margin-top: 150px ;
 
 }
 
 .logo img{
 float: right;
 margin-left: 500px;
-width: 920px;
-height: 613px;
+width: 613px;
+height: 408px;
 }
 
 .search{
@@ -22,6 +23,7 @@ height: 613px;
 }
 
 .search form{
+    
   
   margin-left: 460px;
   width: 100px;
@@ -29,8 +31,8 @@ height: 613px;
 }
 
 input {
-    width: 1000px;
-    height:50px
+    width: 700px;
+    height:30px
 }
 
 .search button{
@@ -43,7 +45,8 @@ input {
 }  
 
 .buttons{
-    margin-left:740px;
+    display: inline;
+    margin-left:590px;
 
   
 }
